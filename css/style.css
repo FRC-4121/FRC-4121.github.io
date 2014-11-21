@@ -1,0 +1,23 @@
+/* Site-wide */
+body > .container {
+	padding-top: 75px;
+}
+
+.jumbotron {
+	height: 50vh;
+}
+
+
+/* For homepage's jumbotron */
+#jumbotron-home {
+	background-image: url("http://i.imgur.com/vmMtUdr.jpg");
+}
+
+#jumbotron-home > .container {
+	margin-top: 8vh;
+	color: white;
+}
+
+#jumbotron-home > .container > h1 > small {
+	color: #ededed;
+}
