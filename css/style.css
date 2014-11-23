@@ -1,12 +1,35 @@
 /* Site-wide */
-body > .container {
-	padding-top: 75px;
+body {
+	background-color: #f7f7f7;
+}
+
+h1, h2, h3, h4, h5 {
+		margin-top: 5px;
+		margin-bottom 5px;
+}
+
+.row {
+	background-color: #fff;
+	padding-top:25px;
+	padding-bottom:25px;
+	margin-left:0px;
+	margin-right:0px;
 }
 
 .jumbotron {
-	height: 50vh;
+	height: 55vh;
+	margin-bottom: 0px;
 }
 
+/* Row coloring */
+.orange-row {
+	background-color: orange;
+	color: white;
+}
+
+.gray-row {
+	backroung-color: gray;
+}
 
 /* For homepage's jumbotron */
 #jumbotron-home {
@@ -14,10 +37,12 @@ body > .container {
 }
 
 #jumbotron-home > .container {
-	margin-top: 8vh;
-	color: white;
+	margin-top: 14vh;
+	color: orange;
 }
 
 #jumbotron-home > .container > h1 > small {
-	color: #ededed;
+	color: #fff;
 }
+
+/* Sponsor row on homepage */
