@@ -1,4 +1,8 @@
 /* Site-wide */
+html {
+	font-family: 'Roboto', sans-serif !important;
+}
+
 body {
 	background-color: #f7f7f7;
 }
@@ -27,8 +31,8 @@ h1, h2, h3, h4, h5 {
 	color: white;
 }
 
-.gray-row {
-	backroung-color: gray;
+.grey-row {
+	background-color: grey;
 }
 
 /* For homepage's jumbotron */
@@ -41,8 +45,11 @@ h1, h2, h3, h4, h5 {
 	color: orange;
 }
 
-#jumbotron-home > .container > h1 > small {
-	color: #fff;
+#jumbotron-home > .container > h1 {
+	font-weight: 700;
 }
 
-/* Sponsor row on homepage */
+#jumbotron-home > .container > h1 > small {
+	color: #fff;
+	font-weight: 300;
+}
