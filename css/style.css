@@ -35,9 +35,14 @@ h1, h2, h3, h4, h5 {
 	background-color: grey;
 }
 
+.light-grey-row {
+	background-color: #ccc;
+}
+
 /* For homepage's jumbotron */
 #jumbotron-home {
-	background-image: url("http://i.imgur.com/vmMtUdr.jpg");
+	/* background-image: url("http://i.imgur.com/vmMtUdr.jpg"); Need better iamge */
+	background-color: #555;
 }
 
 #jumbotron-home > .container {
