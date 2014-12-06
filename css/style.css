@@ -12,6 +12,18 @@ h1, h2, h3, h4, h5 {
 		margin-bottom 5px;
 }
 
+h1 {
+	font-weight:800;
+}
+
+h2 {
+	font-weight:700;
+}
+
+h3 {
+	font-weight:600;
+}
+
 .row {
 	background-color: #fff;
 	padding-top:25px;
@@ -20,9 +32,17 @@ h1, h2, h3, h4, h5 {
 	margin-right:0px;
 }
 
+.navbar {
+	-webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.82);
+	-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.82);
+	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.82);
+}
+
 .jumbotron {
-	height: 55vh;
 	margin-bottom: 0px;
+	-webkit-box-shadow: inset 0px 0px 41px 0px rgba(0,0,0,0.82);
+	-moz-box-shadow: inset 0px 0px 41px 0px rgba(0,0,0,0.82);
+	box-shadow: inset 0px 0px 41px 0px rgba(0,0,0,0.82);
 }
 
 /* Row coloring */
@@ -41,6 +61,7 @@ h1, h2, h3, h4, h5 {
 
 /* For homepage's jumbotron */
 #jumbotron-home {
+	height: 55vh;
 	/* background-image: url("http://i.imgur.com/vmMtUdr.jpg"); Need better iamge */
 	background-color: #555;
 }
