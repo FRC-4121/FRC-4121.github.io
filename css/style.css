@@ -61,8 +61,7 @@ h3 {
 /* For homepage's jumbotron */
 #jumbotron-home {
 	height: 55vh;
-	/* background-image: url("http://i.imgur.com/vmMtUdr.jpg"); Need better iamge */
-	background-color: #555;
+	background: url(\images\jumbotron\home.jpg);
 }
 
 #jumbotron-home > .container {
