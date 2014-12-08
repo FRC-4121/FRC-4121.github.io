@@ -47,16 +47,15 @@ h3 {
 
 /* Row coloring */
 .orange-row {
-	background-color: orange;
-	color: white;
+	background-color: #f9ba59;
 }
 
 .grey-row {
-	background-color: grey;
+	background-color: #a8a9ad;
 }
 
 .light-grey-row {
-	background-color: #ccc;
+	background-color: #eeeeef;
 }
 
 /* For homepage's jumbotron */
@@ -68,7 +67,7 @@ h3 {
 
 #jumbotron-home > .container {
 	margin-top: 14vh;
-	color: orange;
+	color: #faa21c;
 }
 
 #jumbotron-home > .container > h1 {
