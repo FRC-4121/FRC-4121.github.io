@@ -123,7 +123,19 @@
     </div>
   </footer>
   <!-- js at bottom of page for max speed -->
-  <script src="/js/jquery.min.js"></script>
-  <script src="/js/bootstrap.min.js"></script>
+  <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.1/js/bootstrap.min.js"></script>
+  <script> <!-- Nabar fad script -->
+	$(function() {
+		$(window).scroll(function() {
+			var scroll = $(window).scrollTop();
+			if(scroll >= $('.navbar').height()){
+				$('.navbar').removeClass("clearnav").addClass('solidnav');
+				} else {
+				$('.navbar').removeClass('solidnav').addClass('clearnav');
+			};
+		});
+	});
+	</script>
   </body>
 </html>
