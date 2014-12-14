@@ -38,6 +38,22 @@ h3 {
     box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.82);
 }
 
+/* Navbar styling */
+.clearnav {
+    background: transparent;
+    border: none;
+    box-shadow: none;
+}
+
+.clearnav > .container > .navbar-nav > .active > a {
+    color: #fff;
+    background: transparent;
+}
+
+.clearnav > .container > .navbar-nav > li > a {
+    color: #eee;
+}
+
 .jumbotron {
     margin-bottom: 0px;
     -webkit-box-shadow: inset 0px 0px 41px 0px rgba(0,0,0,0.82);
@@ -46,7 +62,7 @@ h3 {
 }
 
 footer > .row {
-	padding: 0px !important;
+    padding: 0px !important;
 }
 
 /* Row coloring */
@@ -65,7 +81,7 @@ footer > .row {
 /* For homepage's jumbotron */
 #jumbotron-home {
     height: 55vh;
-    background: url(\images\jumbotron\home.jpg);
+    background: url(/images/jumbotron/home.jpg);
     background-size: 100%;
     background-position: 50% 50%;
 }
@@ -73,6 +89,7 @@ footer > .row {
 #jumbotron-home > .container {
     margin-top: 14vh;
     color: #faa21c;
+    text-align: right;
 }
 
 #jumbotron-home > .container > h1 {
