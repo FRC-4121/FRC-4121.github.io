@@ -48,6 +48,7 @@ h3 {
 .clearnav > .container > .navbar-nav > .active > a {
     color: #fff;
     background: transparent;
+    font-weight: 600;
 }
 
 .clearnav > .container > .navbar-nav > li > a {
@@ -78,7 +79,7 @@ footer > .row {
     background-color: #eeeeef;
 }
 
-/* For homepage's jumbotron */
+/* Homepage Jumbotron */
 #jumbotron-home {
     height: 69vh;
     background: url(/images/jumbotron/home.jpg);
@@ -99,4 +100,23 @@ footer > .row {
 #jumbotron-home > .container > h1 > small {
     color: #fff;
     font-weight: 300;
+}
+
+/* Sponsor Jumbotron */
+#jumbotron-sponsor {
+    height: 50vh;
+    background: url(/images/jumbotron/sponsor.jpg);
+    background-size: 100%;
+}
+
+#jumbotron-sponsor > .container {
+    margin-top: 25vh;
+}
+
+#jumbotron-sponsor > .container > h1 {
+    font-weight: 700;
+}
+
+#jumbotron-sponsor > .container > h1 > small {
+    font-weight: 500;
 }
