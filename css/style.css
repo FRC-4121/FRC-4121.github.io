@@ -1,48 +1,48 @@
 /* Site-wide */
 html {
-	font-family: 'Roboto', sans-serif !important;
+    font-family: 'Roboto', sans-serif !important;
 }
 
 body {
-	background-color: #f7f7f7;
+    background-color: #f7f7f7;
 }
 
 h1, h2, h3, h4, h5 {
-		margin-top: 5px;
-		margin-bottom 5px;
+        margin-top: 5px;
+        margin-bottom 5px;
 }
 
 h1 {
-	font-weight:800;
+    font-weight:800;
 }
 
 h2 {
-	font-weight:700;
+    font-weight:700;
 }
 
 h3 {
-	font-weight:600;
+    font-weight:600;
 }
 
 .row {
-	background-color: #fff;
-	padding-top:25px;
-	padding-bottom:25px;
-	margin-left:0px;
-	margin-right:0px;
+    background-color: #fff;
+    padding-top:25px;
+    padding-bottom:25px;
+    margin-left:0px;
+    margin-right:0px;
 }
 
 .navbar {
-	-webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.82);
-	-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.82);
-	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.82);
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.82);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.82);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.82);
 }
 
 .jumbotron {
-	margin-bottom: 0px;
-	-webkit-box-shadow: inset 0px 0px 41px 0px rgba(0,0,0,0.82);
-	-moz-box-shadow: inset 0px 0px 41px 0px rgba(0,0,0,0.82);
-	box-shadow: inset 0px 0px 41px 0px rgba(0,0,0,0.82);
+    margin-bottom: 0px;
+    -webkit-box-shadow: inset 0px 0px 41px 0px rgba(0,0,0,0.82);
+    -moz-box-shadow: inset 0px 0px 41px 0px rgba(0,0,0,0.82);
+    box-shadow: inset 0px 0px 41px 0px rgba(0,0,0,0.82);
 }
 
 footer > .row {
@@ -51,35 +51,35 @@ footer > .row {
 
 /* Row coloring */
 .orange-row {
-	background-color: #f9ba59;
+    background-color: #f9ba59;
 }
 
 .grey-row {
-	background-color: #a8a9ad;
+    background-color: #a8a9ad;
 }
 
 .light-grey-row {
-	background-color: #eeeeef;
+    background-color: #eeeeef;
 }
 
 /* For homepage's jumbotron */
 #jumbotron-home {
-	height: 55vh;
-	background: url(\images\jumbotron\home.jpg);
-	background-size: 100%;
-	background-position: 50% 50%;
+    height: 55vh;
+    background: url(\images\jumbotron\home.jpg);
+    background-size: 100%;
+    background-position: 50% 50%;
 }
 
 #jumbotron-home > .container {
-	margin-top: 14vh;
-	color: #faa21c;
+    margin-top: 14vh;
+    color: #faa21c;
 }
 
 #jumbotron-home > .container > h1 {
-	font-weight: 700;
+    font-weight: 700;
 }
 
 #jumbotron-home > .container > h1 > small {
-	color: #fff;
-	font-weight: 300;
+    color: #fff;
+    font-weight: 300;
 }
