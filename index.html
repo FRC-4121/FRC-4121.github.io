@@ -102,20 +102,20 @@
              <div class="col-md-3"> <!-- Basic pages -->
                 <p>General</p>
                 <a href="/">Home</a><br>
-                <a href="/pages/about/">About Us</a><br>
-                <a href="/pages/contact/">Contact us</a>
+                <a href="/about/">About Us</a><br>
+                <a href="/contact/">Contact us</a>
              </div>
              <div class="col-md-3"> <!-- Social -->
                 <p>Social</p>
                 <!-- Facebook -->
-                <a href="https://instagram.com/team4121">Instagram</a><br>
-                <a href="https://twitter.com/team4121">Twitter</a>
+                <a target="_blank" href="https://instagram.com/team4121">Instagram</a><br>
+                <a target="_blank" href="https://twitter.com/team4121">Twitter</a>
              </div>
              <div class="col-md-3"> <!-- Resources -->
                 <p>General</p>
-                <a href="https://github.com/FRC-4121">Github</a><br>
-                <a href="https://github.com/FRC-4121/2015-Robot/wiki">Wiki</a><br>
-                <a href="#">Google Drive</a>
+                <a target="_blank" href="https://github.com/FRC-4121">Github</a><br>
+                <a target="_blank" href="https://github.com/FRC-4121/2015-Robot/wiki">Wiki</a><br>
+                <a target="_blank" href="#">Google Drive</a>
              </div>
           </div>
         </div>
@@ -129,7 +129,7 @@
     $(function() {
         $(window).scroll(function() {
             var scroll = $(window).scrollTop();
-            if(scroll >= $('.jumbotron').height()){
+            if(scroll >= ( $('.jumbotron').height() + 25 )){
                 $('.navbar').removeClass("clearnav").addClass('solidnav');
                 } else {
                 $('.navbar').removeClass('solidnav').addClass('clearnav');
