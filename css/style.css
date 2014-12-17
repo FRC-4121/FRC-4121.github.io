@@ -33,9 +33,9 @@ h3 {
 }
 
 .navbar {
-    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.82);
-    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.82);
-    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.82);
+  background-color: rgba(255, 255, 255, 0.92);
+  background: rgba(255, 255, 255, 0.92);
+  color: rgba(255, 255, 255, 0.92);
 }
 
 /* Navbar styling */
@@ -60,6 +60,11 @@ h3 {
     -webkit-box-shadow: inset 0px 0px 41px 0px rgba(0,0,0,0.82);
     -moz-box-shadow: inset 0px 0px 41px 0px rgba(0,0,0,0.82);
     box-shadow: inset 0px 0px 41px 0px rgba(0,0,0,0.82);
+}
+
+footer > .row, footer > .row > .container > div > .row {
+    background-color: #555555;
+    color: white;
 }
 
 footer > .row {
