@@ -60,6 +60,7 @@ h3 {
     -webkit-box-shadow: inset 0px 0px 41px 0px rgba(0,0,0,0.82);
     -moz-box-shadow: inset 0px 0px 41px 0px rgba(0,0,0,0.82);
     box-shadow: inset 0px 0px 41px 0px rgba(0,0,0,0.82);
+    border-bottom: 1px black;
 }
 
 footer > .row, footer > .row > .container > div > .row {
