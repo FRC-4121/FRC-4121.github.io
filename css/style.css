@@ -129,21 +129,21 @@ footer > .row {
 
 /* Sponsor Tier Coloring */
 .sponsor-tier-1 { /* Platinum */
-
+    background-color: #e5e4e2;
 }
 
 .sponsor-tier-2 { /* Gold */
-
+    background-color: #FFEB7F;
 }
 
 .sponsor-tier-3 { /* Silver */
-
+    background-color: #dadada;
 }
 
 .sponsor-tier-4 { /* Bronze */
-
+    background-color: #ebccad;
 }
 
 .sponsor-tier-5 { /* Unnamed */
-
+    background-color: #f7f7f7;
 }
