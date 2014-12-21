@@ -126,3 +126,24 @@ footer > .row {
 #jumbotron-sponsor > .container > h1 > small {
     font-weight: 500;
 }
+
+/* Sponsor Tier Coloring */
+.sponsor-tier-1 { /* Platinum */
+
+}
+
+.sponsor-tier-2 { /* Gold */
+
+}
+
+.sponsor-tier-3 { /* Silver */
+
+}
+
+.sponsor-tier-4 { /* Bronze */
+
+}
+
+.sponsor-tier-5 { /* Unnamed */
+
+}
