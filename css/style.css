@@ -68,6 +68,10 @@ footer > .row, footer > .row > .container > div > .row {
     color: white;
 }
 
+footer > .row > .container > div > .row > div > a {
+    color: #9fc4e4;
+}
+
 footer > .row {
     padding: 0px !important;
 }
