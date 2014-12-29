@@ -39,16 +39,6 @@
     border-bottom: 1px black;
 }
 
-/* Footer */
-footer > .row, footer > .row > .container > div > .row {
-    background-color: #555555;
-    color: white;
-}
-
-footer > .row > .container > div > a {
-    color: #9fc4e4;
-}
-
 /* Row coloring */
 .orange-row {
     background-color: #f9ba59;
@@ -60,6 +50,11 @@ footer > .row > .container > div > a {
 
 .light-grey-row {
     background-color: #eeeeef;
+}
+
+.dark-grey-row {
+  background-color: #555555;
+  color: white;
 }
 
 /* Homepage Jumbotron */
@@ -87,13 +82,9 @@ footer > .row > .container > div > a {
 
 /* Sponsor Jumbotron */
 #jumbotron-sponsor {
-    height: 50vh;
+    height: 25vh;
     background: url(/images/jumbotron/sponsor.jpg);
     background-size: 100%;
-}
-
-#jumbotron-sponsor > .container {
-    margin-top: 25vh;
 }
 
 #jumbotron-sponsor > .container > h1 {
