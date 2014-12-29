@@ -10,6 +10,10 @@
   padding-bottom: 2em;
 }
 
+.no-padding {
+  padding: 0em;
+}
+
 /* Navbar styling */
 .clearnav {
     background: transparent;
