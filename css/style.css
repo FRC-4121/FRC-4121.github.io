@@ -99,6 +99,18 @@ footer > .row {
     font-weight: 500;
 }
 
+/* About Jumbotron */
+#jumbotron-about {
+  height: 90vh;
+  background-color: #777; /* Temp background */
+}
+
+/* Contact Jumbotron */
+#jumbotron-contact {
+  height: 40vh;
+  background-color: #777; /* Temp background */
+}
+
 /* Sponsor Tier Coloring */
 .sponsor-tier-1 { /* Platinum */
     background-color: #e5e4e2;
