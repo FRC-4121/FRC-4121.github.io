@@ -63,15 +63,14 @@ footer > .row {
 
 /* Homepage Jumbotron */
 #jumbotron-home {
-    height: 69vh;
-    background: url(../images/jumbotron/home.jpg);
-    background-size: 100%;
-    background-position: 50% 50%;
+    height: 85vh;
+    background: url(../images/jumbotron/home.jpg) no-repeat bottom center;
+    background-size: cover;
 }
 
 #jumbotron-home > .container {
-    margin-top: 4em;
-    color: #faa21c;
+    margin-top: 10em;
+    color: #fff;
     text-align: right;
 }
 
@@ -81,7 +80,7 @@ footer > .row {
 
 #jumbotron-home > .container > h1 > small {
     color: #fff;
-    font-weight: 300;
+    font-weight: 500;
 }
 
 /* Sponsor Jumbotron */
