@@ -2,15 +2,14 @@ FRC-4121.github.io
 ==================
 A fancy website for our FRC team built using bootstrap and github pages.
 
-## Goals
-* [x] Home page
-* [ ] Sponor Page
+## Todo List
+* [*] Finish Homepage
+* [*] Intergrate (or link) wiki
 * [ ] About Page
-* [x] Contact Page
-* [ ] Social intergration
-* [ ] Robot Showcase
-* [ ] Misc Page
+* [x] Add better images
+* [ ] Add tutorial page
+* [*] Drive intergration (?)
 
-#### Resources actively being used on the site
-- [Bootsrap](http://getbootstrap.com)
-- [jQuery](http://jquery.com/)
+Resources actively being used on the site:
+- Bootsrap
+- JsQuery
