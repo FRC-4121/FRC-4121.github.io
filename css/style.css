@@ -43,6 +43,11 @@ footer > .row {
     border-bottom: 1px black;
 }
 
+.vcenter {
+  display: flex;
+  align-items: center;
+}
+
 /* Row coloring */
 .orange-row {
     background-color: #f9ba59;
