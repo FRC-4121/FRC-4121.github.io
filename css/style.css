@@ -96,7 +96,8 @@ footer > .row {
 /* Sponsor Jumbotron */
 #jumbotron-sponsor {
     height: 25vh;
-    background: url(/images/jumbotron/sponsor.jpg);
+    /* background: url(/images/jumbotron/sponsor.jpg); */
+    background-color: #555;
     background-size: 100%;
 }
 
