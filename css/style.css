@@ -25,6 +25,11 @@ footer > .row {
     box-shadow: none;
 }
 
+.navbar-right > li > a {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
 .clearnav > .container > .navbar-nav > .active > a {
     color: #fff;
     background: transparent;
@@ -41,6 +46,11 @@ footer > .row {
     -moz-box-shadow: inset 0px 0px 41px 0px rgba(0,0,0,0.82);
     box-shadow: inset 0px 0px 41px 0px rgba(0,0,0,0.82);
     border-bottom: 1px black;
+}
+
+.vcenter {
+  display: flex;
+  align-items: center;
 }
 
 /* Row coloring */
