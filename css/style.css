@@ -73,7 +73,7 @@ footer > .row {
 
 /* Homepage Jumbotron */
 #jumbotron-home {
-    height: 85vh;
+    height: 25vh;
     background: url(../images/jumbotron/home.jpg) no-repeat bottom center;
     background-size: cover;
 }
