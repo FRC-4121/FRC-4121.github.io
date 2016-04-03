@@ -73,14 +73,14 @@ footer > .row {
 
 /* Homepage Jumbotron */
 #jumbotron-home {
-    height: 85vh;
-    background: url(../images/jumbotron/home.jpg) no-repeat bottom center;
+    height: 55vh;
+    background: url(../images/jumbotron/home.jpeg) no-repeat center center;
     background-size: cover;
 }
 
 #jumbotron-home > .container {
-    margin-top: 10em;
-    color: #fff;
+    margin-top: 2%;
+    color: #faa21c;
     text-align: right;
 }
 
