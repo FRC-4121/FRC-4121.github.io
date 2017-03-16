@@ -13,3 +13,9 @@ body {
   background-color:grey;
   text-align:left;
 }
+
+#banner {
+  height:90px;
+  width:900px;
+  background-color:#F05A26;
+}
