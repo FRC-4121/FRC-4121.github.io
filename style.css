@@ -5,6 +5,13 @@ body {
   padding:0;
 }
 
+h1 {
+  color:white;
+  font-family:century gothic;
+  font-weight:italics;
+  font-size:80px;
+}
+
 #wrapper {
   height:730px;
   width: 900px;
