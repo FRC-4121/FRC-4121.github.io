@@ -1,15 +1,1 @@
 /* Site-wide */
-body {
-  color:white;
-  margin:0;
-  padding:0;
-}
-
-#wrapper {
-  height:730px;
-  width: 900px;
-  margin-left:auto;
-  margin-right:auto;
-  background-color:	#FF0000;
-  text-align:left;
-}
