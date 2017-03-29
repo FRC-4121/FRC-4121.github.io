@@ -3,19 +3,18 @@ FRC-4121.github.io
 A fancy website for our FRC team built using HTML and github pages.
 
 ## Todo List
-* [ ] Complete Index Page
-* [ ] Complete About Page
-* [ ] Complete Team Page
-* [ ] Complete Student Leaders Page
-* [ ] Complete Mentors Page
-* [ ] Complete Outreach Page
-* [ ] Complete Facility Page
-* [ ] Complete First Page
-* [ ] Complete FRC Page
-* [ ] Complete FLL Page
-* [ ] Complete Sponsors Page
-* [ ] Complete Resources Page
-* [ ] Complete Gallery Page
-* [ ] Complete Contact Us Page
+* [x] Complete Index Page
+* [x] Complete About Page
+* [x] Complete Team Page
+* [x] Complete Student Leaders Page
+* [x] Complete Mentors Page
+* [x] Complete Outreach Page
+* [x] Complete Facility Page
+* [x] Complete First Page
+* [x] Complete Sponsors Page
+* [x] Complete Resources Page
+* [x] Complete Gallery Page
+* [x] Complete Contact Us Page
 * [ ] Insert Pictures
 * [ ] Insert Outside Links
+* [ ] Fix space at the top of the Index Page
