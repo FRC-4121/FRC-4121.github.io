@@ -25,11 +25,12 @@ h2 {
 p {
 	color:white;
 	margin:0;
-	font-family:arial;
-	font-size: 20px;
-	margin-top:50px;
-	margin-left:10px;
-	margin-right:10px;
+	font-family: serif;
+	font-size: 15px;
+	margin-top: 50px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 50px;
 }
 
 #wrapper {
@@ -258,7 +259,7 @@ a.menu:hover {
 }
 
 a.readme:link, a.readme:visited {
-	font-size:10px;
+	font-size:15px;
 	font-family:arial;
 	text-decoration:none;
 	color:white;
