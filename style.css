@@ -1,4 +1,7 @@
 /* Site-wide */
+html{
+	width: 100%; <!--fill page-->
+}
 
 body {
 	width: 100%;
