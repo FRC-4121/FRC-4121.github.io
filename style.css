@@ -1,7 +1,13 @@
 /* Site-wide */
+html {
+	height: 100%;
+	width: 100%;
+}
 
 body {
-	color:white;
+	height: 100%;
+	width: 100%;
+	color:orange;
 	margin:0;
 	padding:0;
 }
