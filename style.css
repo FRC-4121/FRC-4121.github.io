@@ -49,14 +49,14 @@ p {
 
 #banner {
 	height:90px;
-	width:900px;
+	width: 100%;
 	float:left;
 	background-color:#F05A26;
 }
 
 #menu {
 	height:40px;
-	width:900px;
+	width: 100%;
 	float:left;
 	margin-bottom:20px;
 	background-color:#777777;
